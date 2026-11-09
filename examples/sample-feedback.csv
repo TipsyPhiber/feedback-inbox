@@ -1,0 +1,10 @@
+id,date,name,feedback
+r-101,2026-11-02,Maya,"Cook Mode stops listening after the second step, I have to tap the mic again. Kind of defeats the hands-free part."
+r-102,2026-11-02,Jordan,Love the shopping list! It merged my onions from three recipes. Thank you!
+r-103,2026-11-03,Priya,"Can you add a way to scale a recipe to 2x or half? I cook for one, so I'm always doing math."
+r-104,2026-11-03,Sam,"I can't log in on my phone. It says invalid token after I reset my password, and I've lost access to all my saved recipes."
+r-105,2026-11-04,Alex,"Cook mode doesn't keep listening, after step 2 the mic turns off and I have to press it again"
+r-106,2026-11-05,Taylor,How do I change the voice Cook Mode uses?
+r-107,2026-11-05,Chris,"Search is really slow when I filter by cuisine, takes like 5 seconds every time."
+r-108,2026-11-06,Morgan,"Would be great to have dark mode, my screen is blinding in the kitchen at night."
+r-109,2026-11-07,Jamie,"Password reset link logs me out and then login fails with an invalid token error on mobile. Can't get to my recipes."
